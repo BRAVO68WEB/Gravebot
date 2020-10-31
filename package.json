@@ -36,7 +36,7 @@
     "promise-queue": "^2.2.3",
     "ramda": "^0.23.0",
     "random-org": "^0.1.5",
-    "raven": "^0.10.0",
+    "raven": "^0.12.3",
     "redis": "^2.7.1",
     "request": "^2.81.0",
     "stylus": "^0.54.3",
